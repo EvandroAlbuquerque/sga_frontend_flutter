@@ -3,7 +3,7 @@
 // found in the LICENSE file.
 
 import 'package:flutter/material.dart';
-import 'package:flutter/painting.dart';
-import 'package:sga_frontend_flutter/TabBarModules.dart';
+import 'package:sga_frontend_flutter/Screens/TabBarModules.dart';
 
 void main() => runApp(TabBarModules());
+
